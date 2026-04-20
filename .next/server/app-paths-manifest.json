@@ -1,3 +1,4 @@
 {
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/texas/san-antonio/real-estate/page": "app/texas/san-antonio/real-estate/page.js"
 }
